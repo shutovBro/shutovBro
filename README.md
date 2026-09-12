@@ -22,10 +22,10 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,flutter,dart,nodejs,python,postgres,docker,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,flutter,dart,nodejs,python,postgres,docker,git,figma,ai,copilot,vscode,idea,github,bash,linux&perline=7" />
 </p>
 
 <p align="center">
@@ -41,8 +41,8 @@
 | **Mobile** | Flutter, Dart, React Native |
 | **Backend** | Node.js, Hono, Express, Python |
 | **Database** | PostgreSQL, Drizzle ORM, Meilisearch |
-| **DevOps** | Docker, Traefik, Self-hosted infrastructure |
-| **AI & LLM Tools** | Claude (Anthropic), OpenAI Codex, Cursor, Google Antigravity |
+| **DevOps & OS** | Docker, Traefik, Linux, Self-hosted infrastructure |
+| **AI & LLM Tools** | Claude (Anthropic), OpenAI Codex, Cursor, Google Antigravity, GitHub Copilot |
 | **AI / ML** | AI video generation, LLM integrations, Agentic workflows |
 
 ---
@@ -60,12 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shutovBro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shutovBro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shutovBro&theme=tokyonight&hide_border=true" />
