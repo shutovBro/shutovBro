@@ -18,7 +18,7 @@
 - 🌍 Based in **Astana, Kazakhstan**
 - 💼 Experienced in full product lifecycle: ideation → design → development → deployment
 - 🎓 Open to new opportunities and collaborations
-- ⚡ Passionate about clean code, automation, and AI-powered tools
+- ⚡ Passionate about clean code, automation, and AI-first engineering workflows
 
 ---
 
@@ -28,6 +28,13 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,flutter,dart,nodejs,python,postgres,docker,git,figma&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_3.5_/_4-Anthropic-734F96?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-Agentic_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-AI_Coding-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | TypeScript, React, Next.js, Astro |
@@ -35,7 +42,8 @@
 | **Backend** | Node.js, Hono, Express, Python |
 | **Database** | PostgreSQL, Drizzle ORM, Meilisearch |
 | **DevOps** | Docker, Traefik, Self-hosted infrastructure |
-| **AI / ML** | AI video generation, LLM integrations, Automation |
+| **AI & LLM Tools** | Claude (Anthropic), OpenAI Codex, Cursor, Google Antigravity |
+| **AI / ML** | AI video generation, LLM integrations, Agentic workflows |
 
 ---
 
