@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://aziral.com"><img src="https://img.shields.io/badge/Website-aziral.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/shutovBro"><img src="https://img.shields.io/badge/GitHub-shutovBro-181717?style=flat-square&logo=github" /></a>
+  <a href="https://aziral.com"><img src="https://img.shields.io/badge/Sponsor-Support_AZIRAL-FF69B4?style=flat-square&logo=github-sponsors&logoColor=white" /></a>
 </p>
 
 ---
