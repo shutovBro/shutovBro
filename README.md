@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Olzhas Azirali 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer & Founder @ <a href="https://aziralgroup.com">AZIRAL</a></b><br>
+  <b>Full-Stack Developer & Founder @ <a href="https://aziral.com">AZIRAL</a></b><br>
   Building digital products from idea to production
 </p>
 
 <p align="center">
-  <a href="https://aziralgroup.com"><img src="https://img.shields.io/badge/Website-aziralgroup.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://aziral.com"><img src="https://img.shields.io/badge/Website-aziral.com-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/shutovBro"><img src="https://img.shields.io/badge/GitHub-shutovBro-181717?style=flat-square&logo=github" /></a>
 </p>
 
@@ -45,7 +45,7 @@
 |---------|-------------|------|
 | [**AziralPDF**](https://github.com/shutovBro/AziralPDF-app) | Full-featured PDF editor — view, annotate & edit PDFs on any device | TypeScript |
 | [**AZIRAL CRM**](https://github.com/shutovBro/aziral-crm) | Sales team management system with analytics dashboard | TypeScript |
-| [**Aziral Books**](https://github.com/shutovBro/aziral-books-backend) | Book catalog aggregator — OPDS + Open Library + Internet Archive | TypeScript, Hono, PostgreSQL |
+| [**Aziral Books**](https://github.com/AZIRALGROUP/aziral-books-backend) | Book catalog aggregator — OPDS + Open Library + Internet Archive | TypeScript, Hono, PostgreSQL |
 | [**EcoTaxi**](https://github.com/shutovBro/EcoTaxi) | Eco-friendly ride-hailing mobile application | TypeScript |
 | [**AI Video Generator**](https://github.com/shutovBro/aziral-video-gen) | AI-powered marketing video generation pipeline | Python |
 | [**Solidcore**](https://github.com/shutovBro/Solidcore) | Enterprise workflow management application | TypeScript |
