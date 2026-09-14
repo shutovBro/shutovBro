@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_3.5_/_4-Anthropic-734F96?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-Anthropic-734F96?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-AI_IDE-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Antigravity-Agentic_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-AI_Coding-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -50,21 +50,35 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**AziralPDF**](https://github.com/shutovBro/AziralPDF-app) | Full-featured PDF editor — view, annotate & edit PDFs on any device | TypeScript |
-| [**AZIRAL CRM**](https://github.com/shutovBro/aziral-crm) | Sales team management system with analytics dashboard | TypeScript |
-| [**Aziral Books**](https://github.com/AZIRALGROUP/aziral-books-backend) | Book catalog aggregator — OPDS + Open Library + Internet Archive | TypeScript, Hono, PostgreSQL |
-| [**EcoTaxi**](https://github.com/shutovBro/EcoTaxi) | Eco-friendly ride-hailing mobile application | TypeScript |
-| [**AI Video Generator**](https://github.com/shutovBro/aziral-video-gen) | AI-powered marketing video generation pipeline | Python |
-| [**Solidcore**](https://github.com/shutovBro/Solidcore) | Enterprise workflow management application | TypeScript |
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [**AziralPDF**](https://github.com/shutovBro/AziralPDF-app) | Self-hosted PDF platform — 50+ tools, REST API, desktop app | Java 25 · Spring Boot · React · TypeScript · Docker | [Demo](https://huggingface.co/spaces/shutovBro/aziralpdf) |
+| [**AZIRAL CRM**](https://github.com/shutovBro/AZIRAL-CRM) | Mobile-first Business Workspace: clients, projects, tasks, money, documents | Flutter · Dart · FastAPI · PostgreSQL · Redis | [Web](https://shutovbro.github.io/AZIRAL-CRM/) |
+| [**Aziral Books**](https://github.com/AZIRALGROUP/aziral-books-backend) | Book catalog aggregator — OPDS + Open Library + Internet Archive | TypeScript · Hono · PostgreSQL | — |
+| [**EcoTaxi**](https://github.com/shutovBro/EcoTaxi) | Eco-friendly ride-hailing app — 22-screen passenger flow | React 19 · TypeScript · Vite · Tailwind 4 | [Demo](https://ecotaxi-mu.vercel.app) |
+| [**AI Video Generator**](https://github.com/shutovBro/aziral-video-gen) | Topic → finished marketing short: script, footage, voice-over, subtitles | Python · FastAPI · Streamlit · moviepy · LLMs | [Demo](https://huggingface.co/spaces/shutovBro/aziral-video-gen) |
+| [**Solidcore**](https://github.com/shutovBro/Solidcore) | Employee onboarding, training, tests & mood analytics — employee + admin workspaces | React 18 · TypeScript · Vite · Tailwind 4 | [Demo](https://shutovbro.github.io/Solidcore/) |
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shutovBro&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shutovBro/shutovBro/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/shutovBro/shutovBro/output/github-snake.svg" alt="Contribution snake" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shutovBro&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
